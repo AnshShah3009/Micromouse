@@ -1,5 +1,5 @@
 # Micromouse Project at BITS Robocon
-
+![Image of Micromouse Prototype](https://github.com/AnshShah3009/Micromouse/blob/master/Media/IMG_20191130_203601.jpg)
 ## Overview
 The Micromouse project at BITS Robocon is a captivating exploration into the realm of robotics and autonomous systems. This project challenges participants to design, build, and program a small robot capable of autonomously navigating through a maze. The primary goal is to develop efficient maze-solving algorithms that enable the robot to find the optimal path from the maze's entrance to its center or exit.
 
